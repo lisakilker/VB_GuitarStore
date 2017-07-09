@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\bin\Debug\GuitarStoreApplication.exe.config
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\bin\Debug\GuitarStoreApplication.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\bin\Debug\GuitarStoreApplication.pdb
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\bin\Debug\GuitarStoreApplication.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\obj\Debug\GuitarStoreApplication.frmGuitarStore.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\obj\Debug\GuitarStoreApplication.Resources.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\obj\Debug\GuitarStoreApplication.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\obj\Debug\GuitarStoreApplication.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\obj\Debug\GuitarStoreApplication.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\GuitarStoreApplication\GuitarStoreApplication\obj\Debug\GuitarStoreApplication.pdb
